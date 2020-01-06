@@ -16,3 +16,7 @@ I'm building a chrome extension that saves URLs, It's very simple, but I'm tryin
 I just completed the FreeCodeCamp certification (API and Microservices). Honestly, I don't think the platform works for me,  I get distracted pretty easily
 
 [link](https://www.freecodecamp.org/certification/renatomacedo/apis-and-microservices)
+
+## Day 13/14
+
+Back to the chrome extension, I'm building the UI right now with [BaseWebReact](https://github.com/uber/baseweb), the goal is to build a full Pocket clone with a web and mobile app
