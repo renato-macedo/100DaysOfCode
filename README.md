@@ -20,3 +20,6 @@ I just completed the FreeCodeCamp certification (API and Microservices). Honestl
 ## Day 13/14
 
 Back to the chrome extension, I'm building the UI right now with [BaseWebReact](https://github.com/uber/baseweb), the goal is to build a full Pocket clone with a web and mobile app
+
+## Day 15/16
+Finishing some Udemy courses that I left on hold, that's what I'm going to do this week I guess
