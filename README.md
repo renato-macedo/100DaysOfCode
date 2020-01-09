@@ -23,3 +23,6 @@ Back to the chrome extension, I'm building the UI right now with [BaseWebReact](
 
 ## Day 15/16
 Finishing some Udemy courses that I left on hold, that's what I'm going to do this week I guess
+
+## Day 17
+Still on Udemy, I thought I had a good understanding of React but that's definitely not true. To be honest, I am just studying to build the apps I need, I don't intend to delve into it
