@@ -26,3 +26,6 @@ Finishing some Udemy courses that I left on hold, that's what I'm going to do th
 
 ## Day 17
 Still on Udemy, I thought I had a good understanding of React but that's definitely not true. To be honest, I am just studying to build the apps I need, I don't intend to delve into it
+
+## Day 18/19
+Tried Redux for the first time, it wasn't as hard as I thought it would be, having a good understanding of javascript probably helped
