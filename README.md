@@ -29,3 +29,6 @@ Still on Udemy, I thought I had a good understanding of React but that's definit
 
 ## Day 18/19
 Tried Redux for the first time, it wasn't as hard as I thought it would be, having a good understanding of javascript probably helped
+
+## Day 20
+Thanks to college I got a free account on FrontendMasters, started digging a little deeper into Node, first time working with streams
