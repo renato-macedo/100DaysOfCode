@@ -32,3 +32,6 @@ Tried Redux for the first time, it wasn't as hard as I thought it would be, havi
 
 ## Day 20
 Thanks to college I got a free account on FrontendMasters, started digging a little deeper into Node, first time working with streams
+
+## Day 21/22
+found good Node content on FrontendMasters that goes beyond just express apps
