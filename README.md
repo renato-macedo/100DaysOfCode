@@ -35,3 +35,6 @@ Thanks to college I got a free account on FrontendMasters, started digging a lit
 
 ## Day 21/22
 found good Node content on FrontendMasters that goes beyond just express apps
+
+## Day 23/24
+Spent a lot of time researching how to keep the user logged in using JWT, turns out it's not as easy as I thought, maybe one day I'll write the tutorial I didn't find
