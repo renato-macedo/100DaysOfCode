@@ -38,3 +38,6 @@ found good Node content on FrontendMasters that goes beyond just express apps
 
 ## Day 23/24
 Spent a lot of time researching how to keep the user logged in using JWT, turns out it's not as easy as I thought, maybe one day I'll write the tutorial I didn't find
+
+## Day 25/26/27
+I refactored the blog project to use the mysql2 promise wrapper and then went back to the web version of the Pocket-like app and I'm building the UI right now, I just hate css
