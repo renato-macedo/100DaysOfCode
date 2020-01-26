@@ -38,3 +38,6 @@ I refactored the blog project to use the mysql2 promise wrapper and then went ba
 
 ## Day 28/29/30
 Since I didn't know what I wanted for the UI, I wasted a lot of time trying libraries and redoing things. Anyway, always make a prototype
+
+## Day 31/32/33/34
+the web app and extension are finally working together but with a few bugs, after fixing them I might start working on the mobile app
