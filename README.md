@@ -41,3 +41,6 @@ Since I didn't know what I wanted for the UI, I wasted a lot of time trying libr
 
 ## Day 31/32/33/34
 the web app and extension are finally working together but with a few bugs, after fixing them I might start working on the mobile app
+
+## Day 35/36
+Fixed some usability bugs in the extension and started the mobile version
