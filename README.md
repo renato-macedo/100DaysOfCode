@@ -44,3 +44,6 @@ the web app and extension are finally working together but with a few bugs, afte
 
 ## Day 35/36
 Fixed some usability bugs in the extension and started the mobile version
+
+## Day 37/38
+I took a little break from javascript, now I'm revisiting the basics of Go. That's what I'll do for the rest of the week
