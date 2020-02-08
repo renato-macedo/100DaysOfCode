@@ -51,3 +51,6 @@ I took a little break from javascript, now I'm revisiting the basics of Go. That
 ## Day 39/40/41/42
 continuing with Go, I started a course to see what microservices is all about, nothing strange until now
 
+## Day 43/44/45
+I decided to go back to the RN app and was able to reuse a lot of code from the web version, I'm almost done
+
