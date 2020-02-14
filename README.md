@@ -54,3 +54,5 @@ continuing with Go, I started a course to see what microservices is all about, n
 ## Day 43/44/45
 I decided to go back to the RN app and was able to reuse a lot of code from the web version, I'm almost done
 
+## Day 46/47/48/49/50
+I haven't finished the app yet, I had to create a password reset system and build an image preview like when users share a link on social media
