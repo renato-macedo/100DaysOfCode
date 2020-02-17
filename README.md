@@ -56,3 +56,6 @@ I decided to go back to the RN app and was able to reuse a lot of code from the 
 
 ## Day 46/47/48/49/50
 I haven't finished the app yet, I had to create a password reset system and build an image preview like when users share a link on social media
+
+## Day 51/52/53/54/55
+I finished the app but I spent three days trying to fix a refresh token bug, after some adjustments I can move on to another project
