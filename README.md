@@ -59,3 +59,8 @@ I haven't finished the app yet, I had to create a password reset system and buil
 
 ## Day 51/52/53/54/55
 I finished the app but I spent three days trying to fix a refresh token bug, after some adjustments I can move on to another project
+
+## Day 56/57/58/59/60
+Did a big refactoring on the Context of the app and I was able to fix bugs on the browser extension, I tried to implement a share extension for RN App but every examble was buggy and didn't work well
+
+
