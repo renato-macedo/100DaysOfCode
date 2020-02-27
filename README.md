@@ -63,4 +63,7 @@ I finished the app but I spent three days trying to fix a refresh token bug, aft
 ## Day 56/57/58/59/60
 Did a big refactoring on the Context of the app and I was able to fix bugs on the browser extension, I tried to implement a share extension for RN App but every examble was buggy and didn't work well
 
+## Day 61/62/63/64/65
+I fixed a broken discord bot and completed a very good course at FrontendMasters. Learned to set up my first droplet at Digital Ocean and a Nginx server. It's funny that the content I like most on this platform is not about the frontend. 
+
 
