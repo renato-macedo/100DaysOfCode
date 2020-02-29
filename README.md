@@ -66,4 +66,6 @@ Did a big refactoring on the Context of the app and I was able to fix bugs on th
 ## Day 61/62/63/64/65
 I fixed a broken discord bot and completed a very good course at FrontendMasters. Learned to set up my first droplet at Digital Ocean and a Nginx server. It's funny that the content I like most on this platform is not about the frontend. 
 
+## Day 66/67/68
+I forgot to tell that I deleted the script file in this repository, I only used three days. Today I finished another course at FrontendMasters: Complete Introduction to Containers, now I can at least configure my own container or execute those of other people
 
