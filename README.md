@@ -5,12 +5,12 @@ I've been coding for 10 days straight, so I decided to take the challenge seriou
 ## Day 11
 I'm building a chrome extension that saves URLs, It's very simple, but I'm trying to keep the icon different for saved pages which makes the task harder because the documentation is terrible
 
-[link](https://github.com/renato-macedo/kipin)
+[repo](https://github.com/renato-macedo/kipin)
 
 ## Day 12
 I just completed the FreeCodeCamp certification (API and Microservices). Honestly, I don't think the platform works for me,  I get distracted pretty easily
 
-[link](https://www.freecodecamp.org/certification/renatomacedo/apis-and-microservices)
+[certification](https://www.freecodecamp.org/certification/renatomacedo/apis-and-microservices)
 
 ## Day 13/14
 Back to the chrome extension, I'm building the UI right now with [BaseWebReact](https://github.com/uber/baseweb), the goal is to build a full Pocket clone with a web and mobile app
@@ -28,19 +28,19 @@ Tried Redux for the first time, it wasn't as hard as I thought it would be, havi
 Thanks to college I got a free account on FrontendMasters, started digging a little deeper into Node, first time working with streams
 
 ## Day 21/22
-found good Node content on FrontendMasters that goes beyond just express apps
+I found good Node content on FrontendMasters that goes beyond just Expressjs apps
 
 ## Day 23/24
 Spent a lot of time researching how to keep the user logged in using JWT, turns out it's not as easy as I thought, maybe one day I'll write the tutorial I didn't find
 
 ## Day 25/26/27
-I refactored the blog project to use the mysql2 promise wrapper and then went back to the web version of the Pocket-like app and I'm building the UI right now, I just hate css
+Refactored the blog project to use the mysql2 promise wrapper and then went back to the web version of the Pocket-like app and I'm building the UI right now, I just hate css
 
 ## Day 28/29/30
-Since I didn't know what I wanted for the UI, I wasted a lot of time trying libraries and redoing things. Anyway, always make a prototype
+Since I didn't know what I wanted for the UI, I wasted a lot of time trying libraries and redoing things. Anyway, always make a prototype.
 
 ## Day 31/32/33/34
-the web app and extension are finally working together but with a few bugs, after fixing them I might start working on the mobile app
+The web app and extension are finally working together but with a few bugs, after fixing them I might start working on the mobile app
 
 ## Day 35/36
 Fixed some usability bugs in the extension and started the mobile version
@@ -61,11 +61,14 @@ I haven't finished the app yet, I had to create a password reset system and buil
 I finished the app but I spent three days trying to fix a refresh token bug, after some adjustments I can move on to another project
 
 ## Day 56/57/58/59/60
-Did a big refactoring on the Context of the app and I was able to fix bugs on the browser extension, I tried to implement a share extension for RN App but every examble was buggy and didn't work well
+Did a big refactoring on the Context of the app and I was able to fix bugs on the browser extension, I tried to implement a share extension for RN App but every examble was buggy and didn't work well.
 
 ## Day 61/62/63/64/65
 I fixed a broken discord bot and completed a very good course at FrontendMasters. Learned to set up my first droplet at Digital Ocean and a Nginx server. It's funny that the content I like most on this platform is not about the frontend. 
 
 ## Day 66/67/68
-I forgot to tell that I deleted the script file in this repository, I only used three days. Today I finished another course at FrontendMasters: Complete Introduction to Containers, now I can at least configure my own container or execute those of other people
+I forgot to tell that I deleted the script file in this repository, I only used three days. Today I finished another course at FrontendMasters: Complete Introduction to Containers, now I can at least configure my own container or execute those of other people.
+
+## Day 69/70/71/72/73
+So, I'm trying to build a thing with Go and Websockets and I keep rewriting stuff because everything keeps getting confusing, but it's been a good exercise and I'm getting more confident with the language.
 
