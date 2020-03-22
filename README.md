@@ -72,3 +72,6 @@ I forgot to tell that I deleted the script file in this repository, I only used 
 ## Day 69/70/71/72/73
 So, I'm trying to build a thing with Go and Websockets and I keep rewriting stuff because everything keeps getting confusing, but it's been a good exercise and I'm getting more confident with the language.
 
+## Day 74/75/76/77/78
+Implemented a multiplayer Tic Tac Toe using WebSockets, Golang and React. I'm definitely running out of project ideas
+[repo](https://github.com/renato-macedo/socket_tictactoe)
