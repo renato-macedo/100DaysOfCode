@@ -74,4 +74,9 @@ So, I'm trying to build a thing with Go and Websockets and I keep rewriting stuf
 
 ## Day 74/75/76/77/78
 Implemented a multiplayer Tic Tac Toe using WebSockets, Golang and React. I'm definitely running out of project ideas
+
 [repo](https://github.com/renato-macedo/socket_tictactoe)
+
+## Day 79 
+I spent a couple hours learning what Redis can do until I realize I didn't need to use Redis
+
