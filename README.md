@@ -80,3 +80,6 @@ Implemented a multiplayer Tic Tac Toe using WebSockets, Golang and React. I'm de
 ## Day 79 
 I spent a couple hours learning what Redis can do until I realize I didn't need to use Redis
 
+## Day 80/81/82
+I deployed an app using Docker and wanted to try something different, so I built my first Django app but I didn't really like the experience. I think the Python environment is not for me.
+
