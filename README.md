@@ -85,3 +85,24 @@ I spent a couple hours learning what Redis can do until I realize I didn't need 
 ### Day 80/81/82
 I deployed an app using Docker and wanted to try something different, so I built my first Django app but I didn't really like the experience. I think the Python environment is not for me.
 
+### Day 83/84/85/86/87
+I started working on my personal website, made some updates on previous projects and wrote a simple service to download and cut YouTube videos that I may need someday
+
+### Day 88/89/90
+I only had time to build a small authentication system for future reference using short-lived access token (JWT) and long-lived refresh tokens. I would love some review from someone who already did something similar
+
+[repo](https://github.com/renato-macedo/auth-showcase)
+
+### Day 91/92/93
+I spent the last few days on a project for another chrome extension but I totally lost interest now. At least it was a good exercise
+
+### Day 94/95/96/97/98
+I started the Packt's free Go Workshop, but I took a break to create a chrome extension that syncs what you're watching with friends
+
+### Day 99
+Today I just changed the Blog project to use a query builder instead of raw queries
+
+### Day 100
+I have a lot to learn ... But I'm glad it's over
+This experience was really great for making programming a habit and that's probably what I'll do in my spare time now.
+For the future, I want to try systems programming, maybe create a compiler, some complex things. I will focus on getting a job now, but I have a remote interview in two days and I am confident because I have already passed the technical stage.
